@@ -1,0 +1,493 @@
+----- diversity: 0.2
+----- Generating with seed: " de tierra que estorbaba el paso,
+y unos"
+---
+ de tierra que estorbaba el paso,
+y unos
+d√d√d√
+d√√©dd√d√©dd√dd√d√©
+dd√dd√d√©
+dd√dd√d√©
+dd√dd√d√©dd√©ddd√d√©
+lllllllll
+lll
+qqq qq√√√
+√©ll
+llllll
+ll
+qqq q√q√√√©l
+dd√dd√d√d√©
+dd√d√d√©ddd√d√©
+dd√dd√d√©ddd√√©
+ddd√d√©ddd√d√©
+dd√dd√d√©dd√©
+dd√dd√d√dd√©
+dd√d√©ddd√d√©
+dd√d√dd√d√©
+dd√dd√d√©
+dd√d√dd√©
+dd√d√d√©ddd√d√©
+dd√dd√©dd√dd√√©
+dd√dd√d√©
+dd√d√dd√©dd√d√©ddd√©
+llllllll
+llll
+qqq qq√√√q
+√√©llllll
+lll
+lll
+qqq qq√√√√©l
+d√dd√d√d√©dd√d√©ddd√©
+lllllllll
+llll
+qqq qq√√√
+√√©Äd√dd√dd√d√©
+ld√dd√d√©
+ddd√d√©
+dd√dd√d√©dd√d√©
+dd√d√dd√©dd√©ddd√d√©
+llllllllll
+ll
+qqqq q√√√√©l
+dd√dd√d√©
+ddd√d√©
+dd√dd√dd√√©
+dd√dd√d√©
+dd√d√d√©ddd√d√©
+dd√dd√d√©dd√©ddd√d√©
+dd√dd√d√©dd√d√©
+dd√dd√d√©
+dd√dd√d√©
+dd√d√dd√d√©
+dd√dd√d√©
+dd√dd√d√©
+dd√d√dd√d√©
+dd√d√d√©ddd√d√©
+dd√dd√d√©
+dd√dd√d√©dd√dd√©
+dd√d√©ddd√dd√©
+lllllllll
+ll
+qqq qq√√√
+q√√©l
+dd√dd√dd√
+rrq qq q lllllll
+lll
+qqq qq√√√
+√©llll
+llll
+lll
+qqq qq√√√√©l
+d√dd√d√d√©
+ddd√d√√©ddd√©dd√dd√©
+dd√dd√d√©
+dd√d√dd√d√©
+dd√d√dd√©
+dd√dd√d√©
+dd√d√dd√d√©
+dd√d√©ddd√d√d√©
+dd√d√dd√©
+dd√dd√d√©dd√dd√©
+dd√dd√√©ddd√d√©
+dd√dd√d√©
+dd√dd√d√©dd√©ddd√d√©
+dd√dd√d√©
+dd√d√dd√©
+dd√dd√d√©
+dd√dd√d√©dd√dd√©
+dd√d√©dd√dd√©
+dd√dd√d√©dd√©ddd√©ddd√©
+dd√d√dd√√©©ldddd√dd√
+rd√√©ddd√d√©ddd√d√©
+dd√dd√d√©
+dd√d√d√©ddd√©ddd√d√©
+dd√d√d√©ddd√d√©
+dd√d√dd√©dd√©ddd√d√©
+----- diversity: 0.5
+----- Generating with seed: " de tierra que estorbaba el paso,
+y unos"
+---
+ de tierra que estorbaba el paso,
+y unos
+d√√dd√d√√
+d√©dd√√©ddd√d√©
+dd√d√dd√©d
+dd√d√√©
+dd√dd√d©dd√d©dd
+d√√©llllllll
+lll
+qqq qq√q√√√
+√©l
+llllll
+lll
+ll
+qqq q√q√√√©l
+lllll
+llll
+qqq q√q√√
+√√©©ll
+lllllll
+ll
+lqqq qq√√√q
+√√q√Ä√√©dddd√√dd√©
+dd√©d√dd√d√©©llllllll
+llll
+qqqq qq√√√√©√©dddd√
+rllllllll
+ll
+qqq qq√l√
+√q√√©Äd√dd√dd
+rrllllllll
+lll
+qqq qq√√
+√√q√≥√Ä√d√dd√dd√d
+√rd√dd√√©©llddd√
+dd√dd√√©©l
+dddd√dd√d√©
+ld√dd√d√©
+dd√d√d√©ddd√©
+dd√dd√©dd√d√©ddd√©
+dd√d√dd√©dd√©lddd√dd√
+d√©d√dd√©dd√dd√©
+dd√ddd√r
+d√d√√©Äddd√dd√d√©
+dd√d√d√©lddd√d√©
+ll
+lllllll
+ll
+lqqq qq√√√
+q√√≥√©d
+dd√dd√dr
+d√rd√d√
+ddd√√©©ddddd√d√©
+d√dd√d√©ddd√d√©
+lllllllll
+lll
+qqqq q√√√q√√©√©l
+Äddd√drr
+dd√dd√√©dd√d√©
+dd√d√d√©ddd√©
+dd√dd√d√©ldd√dd√r
+Äd√d√©ddd√d√d√:
+√©dd√dd√dd√©
+llllllll
+lll
+qqq qqq √√√√©√©lÄdddr
+ddrr
+q qq√√√√©©Äddddd√d
+rd√
+d√d√d√√©dd√dd√©
+dd√dd√d√©ddd√√©dd√©ddd√dd√√©
+dd√©ddd√d√©ddd√©ddd√©
+lllllllll
+ll
+qqq qq√√√√©l
+llllll
+ll
+qqq qq√√√≥
+√√©ddd√dd√r
+d√dd√√©dd√dd√©
+dd√ddd√rl
+lllllll
+ll
+qqqq q√√√q√√©©lll
+llll
+ll
+qqq qq√√√√≥
+d√dd√dd√
+rrllllllll
+llqqq qq q√√
+√q√q√
+llll
+lll
+llqq qq q√√√q√√©l
+llllllll
+l
+qqqrq q√√√√©©l
+dd√ddd√d√
+d√rd√d√©ddd√©
+dd√dd√d√©ddd√√©
+ddd√√√©©Äddd√ddd√
+d√©dd√d√©
+dd√ddd√√©
+lllllllll
+l
+qqq qq√√√
+d√√©Äd√dd√dr
+dd√d√d√©dd√©dd√
+©dd√dd√d√d√©
+dd√d√©ddd√©
+dd√ddd√d
+----- diversity: 1.0
+----- Generating with seed: " de tierra que estorbaba el paso,
+y unos"
+---
+ de tierra que estorbaba el paso,
+y unos
+q√√√S√q √d√√©
+Ädd√rrd√dd√d√√Äd√©©
+dd√√ddd√©l:
+rddolll
+ll
+lllll
+ll
+lqqq qq√√√q√
+√√©ql√l
+ll
+lll
+lll
+qq qq√√Äúqq √
+úd√d√dd√≥Ä
+ddd√©
+dd√©rrdrllllll
+lllll
+llq
+q√q√√
+√Äq√√q°√dd√√√©dr©Äddd√ddrl
+drq√d
+d√d√d√
+llAlll
+llll
+qq qqq qq√√√√≥√≥
+dd√dd√d√≥
+Ä√√©dddd√rl
+lllllllll
+ll
+llqq
+q qq√√√√≥
+d√√d√ddd√dd√d
+rrqlplllll
+llll
+l
+qqqq√√√√√©©
+dd√≥Äd√ddd√r
+r qqq 
+lrlllll
+llll
+lqqlq qq√√√q√ l√©ÄÄqdrrr
+
+ql√q ql√√d√≥
+rdd√dd√√√©Äddd√d√√d©
+dd√dl√d©dddd√©
+rddd√rq√Y
+Ädrd√d√
+dd√√
+√√©Äd√dddd√d
+Yd√
+d√√ddd√d√©ll
+lllllllll
+qqq qq √√q√Ä√©
+dd√r
+lllllll
+lll
+lqqq q√√qq√√
+√√©Äd√dddd©
+rlllllllll
+llqqq qqq√√
+√√q√√©√©l
+ddddrll
+d
+rqqq q√q√√√©©ldd©ddl
+llllll
+ll
+llqq qq q√q√√√
+ql√√√d
+ddd√drrr
+Äqrl√q √dd√
+qdd√d√
+√d√©Ärdd√d√dd√d©d√d√d©
+dd√©d©l,dddldo
+d√dd√d√
+d√√©d√©ddd√
+d√©d√ddd√√©rdd√dd√©dd√d√©©ddd√dd√d√©
+dd√©d√Äddd√
+d√ddd√√©
+dd√dd√d√©
+dd√d√d©√d√dd√dd√√
+r©llllllll
+lq
+qqq qA√√q√
+ÄÄúq
+√d√r©Äd√ddd√r
+d√rúqprlllllllll
+qq qqq√q√
+√A√S√√≥Ädd√dd√d
+dd√√√©©Äd√ddd√
+d√d©dllll
+llll
+lq
+qq√qrp
+qq√q√q√√≥√≥,Äd√dd√≥
+Äd√dd√dd√
+r
+rqqq p√qlllll
+lll
+lll
+qqq q√√q√:
+l√√
+dddrd
+d√d√√
+©dd√©dddd√√≥drr
+rll
+llllllll
+lll
+qqs qq√√√
+q√√√©
+√dddddd√
+rrq
+llllllll
+ll
+qq qq√√
+ql√√≥
+Äd√dd√r
+drrd√
+dd√d
+√dd√√Yd
+Yd
+√√rddd√
+√√©dd√ddd√d√:d√©ddd√©ddl
+d√√qd
+dl√√√©dddd√©
+ll
+----- diversity: 1.2
+----- Generating with seed: " de tierra que estorbaba el paso,
+y unos"
+---
+ de tierra que estorbaba el paso,
+y unos
+d√
+
+dd√√√ddd√√√©d√©
+dd©lddldl
+
+qrq qq l√l√dÄúq√d
+Äq√rqr q q√√d√d
+d√√©dlddd√©
+dd√dd√√©d©Arllll
+l
+lSllll
+l
+qqq√q√√√
+qq√√√√©©lSÄÄd√ddd
+d√√√©dd√√ddddd√√d√©: Ä
+ÄYdd√dd√d√
+√©ddl√ddd√©
+d√dddd√
+√√√©ÄÄddd√d
+Yrdr
+ll
+llllll
+q
+qqq √qq√√√√q √Äúllll
+lllll
+
+qqqrq q√q√q√b l√l
+√dlll
+dq qlqll√
+d
+√q
+l√rAqr q qrq q√l√√°ll
+llll
+ll
+Äqqqr qq√√√
+d√d√©d
+d√√©fdd√dd√d©
+d√dd√√©:d√√©Äddd√©dd√d
+l√d√©dlllllll
+l,lll
+dqq
+qq y√√√q√≥
+d√d√ddr√,
+d
+d√√
+pdrrd√d√√
+ddd√©l√ddd©d©ddd
+d√√
+d
+lllllldl
+
+qqqq qq√√√√Aq Ä
+llÄdqr ll
+qq qb√√√©l
+d√dd√d
+rpÄ√Ä,dBd√
+ddd√√©
+llsql
+ql
+√dd√d
+√d√©dddd√d√
+√√√©©l
+dddddrl
+q q√q√°d√r
+q
+lllll√q
+qqq q√√ √©Äd√©dl
+Ädd
+d√dqd√q pq
+lllllll
+lÄqq
+qq q √√√q√S√©
+Äddd√
+d√©d
+dl√dd√d√dd√©©©llÄd√
+dd
+d√rd
+d
+d√√√√d√rÄdd√d©
+ddd√dd√©©
+llllllll
+lqq qll
+lll√
+l√qqq√
+√d√ú
+lllll
+l
+qlqq q qq√√√q√°≥√√©d
+dddrÄll
+d√dlq
+ddd√d√√©Äd√qdrr pq
+√q√q q√l.d
+drll
+llll
+l
+qqq qq√√√q√q√ÄÄ
+d√
+dd√ddd√√©√d√©ddll
+
+d:d√dd√
+d√rd√d√©,
+dd√dd√Y√d√√©dddd√√©dd√©
+ld√dd√d
+d√d©©llllll
+llq qq√qqu q
+Aq√√√Al
+q ql√d
+√ql√q
+dq
+√rAdrq q ql√√√©llll
+lllll
+qd√q qq√rAq√
+√Ädrqlll
+
+llqq√q ql√√qq
+√A√q√√
+ÄÄrd
+drllll
+lll
+lllql
+qq √qq q√q√√
+≥√
+Äqq p√ lll
+llll
+qrq qq qq√√√≥rdd√
+ld
+drq
+ll√lqll√q qrl√
+ql
+q√Aq√q q q√√°l√√©d√dd
+l
+ddq√dd√qr
+:plll
+lllql ql
+qrqq q√l√q√
+√Äq
